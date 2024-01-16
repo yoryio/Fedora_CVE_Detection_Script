@@ -2,7 +2,7 @@
 
 Bash script to detect CVEs to be patched in Fedora systems and give you more information about the CVE like CVSS, Severity and CWE.
 
-Usage: `./cves.sh`
+Usage: `chmod u+x && ./cves.sh`
 
 Script version: 1.0
 
